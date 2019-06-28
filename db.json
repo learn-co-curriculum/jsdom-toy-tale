@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 15
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 11
     },
     {
       "id": 3,
@@ -47,6 +47,44 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Toto",
+      "id": 9
+    },
+    {
+      "name": "Toto",
+      "id": 10
+    },
+    {
+      "name": "Something",
+      "image": "",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Something",
+      "image": "",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Something Else",
+      "image": "",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "Whatever",
+      "image": "",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "Jesse",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
+      "likes": 13,
+      "id": 15
     }
   ]
 }
