@@ -74,6 +74,19 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
+  function createToys(toyObj) {
+    const div = document.createElement("div")
+    div.className = "card"
+    div.dataset.id = toyObj.id
+    div.innerHTML = `<h2>${toyObj.name}</h2>
+  <img src=${toyObj.image} class="toy-avatar" />
+  <p>${toyObj.likes} Likes </p>
+  <button class="like-btn">Like <3</button>
+  `
+    toyCollection.append(div)
+  }
+
+  // INITIALIZE
   const initialize = () => {
 
     fetch('http://localhost:3000/toys')
@@ -87,18 +100,6 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   initialize()
-
-  function createToys(toyObj) {
-    const div = document.createElement("div")
-    div.className = "card"
-    div.dataset.id = toyObj.id
-    div.innerHTML = `<h2>${toyObj.name}</h2>
-  <img src=${toyObj.image} class="toy-avatar" />
-  <p>${toyObj.likes} Likes </p>
-  <button class="like-btn">Like <3</button>
-  `
-    toyCollection.append(div)
-  }
 
 });
 

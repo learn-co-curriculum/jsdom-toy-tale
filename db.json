@@ -10,13 +10,13 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 24
+      "likes": 29
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 7
     },
     {
       "id": 4,
@@ -51,8 +51,20 @@
     {
       "name": "Forky",
       "image": "https://insidethemagic-119e2.kxcdn.com/wp-content/uploads/2019/01/forky.jpg",
-      "likes": 7,
+      "likes": 12,
       "id": 9
+    },
+    {
+      "name": "Jessie",
+      "image": "https://static.wikia.nocookie.net/disney/images/1/11/Profile_-_Jessie.jpeg/revision/latest/scale-to-width-down/692?cb=20190313152740",
+      "likes": 4,
+      "id": 12
+    },
+    {
+      "name": "also Jessie",
+      "image": "https://static.wikia.nocookie.net/disney/images/1/11/Profile_-_Jessie.jpeg/revision/latest/scale-to-width-down/692?cb=20190313152740",
+      "likes": 0,
+      "id": 13
     }
   ]
 }
