@@ -46,31 +46,7 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": 69
-    },
-    {
-      "name": "Baby Yoda",
-      "image": "https://i5.walmartimages.ca/images/Enlarge/615/734/6000201615734.jpg",
-      "likes": 12,
-      "id": 9
-    },
-    {
-      "name": "Ball Pen",
-      "image": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/11/823984-5pc-toddler-jungle-gym.png?h=840",
-      "likes": 6,
-      "id": 10
-    },
-    {
-      "name": "Ball Pen",
-      "image": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/11/823984-5pc-toddler-jungle-gym.png?h=840",
-      "likes": 0,
-      "id": 11
-    },
-    {
-      "name": "Ballon Animals",
-      "image": "https://api.time.com/wp-content/uploads/2020/11/TFK_ToyGuide_Squeakee_v2.jpg",
-      "likes": 0,
-      "id": 12
+      "likes": -2
     }
   ]
 }
