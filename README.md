@@ -15,6 +15,15 @@ This will create a server storing all of our lost toy data with restful routes
 at `http://localhost:3000/toys`. You can also check out
 `http://localhost:3000/toys/:id`
 
+> **Note**: For users of the [Live Server VSCode extension][live-server], if the
+> page is reloading when you initiate a fetch request, you'll need to set up
+> some additional configuration for Live Server to play nicely with
+> `json-server`. Follow the steps in [this gist][live-server settings] (you'll
+> only need to do this once), then come back to this lesson.
+
+[live-server]: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+[live-server settings]: https://gist.github.com/ihollander/cc5f36c6447d15dea6a16f68d82aacf7
+
 ## Fetch Andy's Toys
 
 On the `index.html` page, there is a `div` with the `id` "toy-collection."
